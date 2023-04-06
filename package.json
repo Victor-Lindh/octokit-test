@@ -1,0 +1,11 @@
+{
+  "name": "octokit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Lindh <victorlindh@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.14"
+  }
+}
